@@ -1,2 +1,2 @@
 # lab2
-filereding
+handlar om hur jag ska hantera filereding i en text
